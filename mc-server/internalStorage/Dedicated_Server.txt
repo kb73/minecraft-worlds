@@ -1,13 +1,13 @@
 C:/Users/Bowers/Documents/minecraft-worlds/mc-server/internalStorage/Dedicated_Server.txt
-[2020-06-05 20:11:39 INFO] Starting Server
-[2020-06-05 20:11:39 INFO] Version 1.14.60.5
-[2020-06-05 20:11:39 INFO] Session ID 62ce8c8a-6ff7-442b-8698-27a9ed2ac5f3
-[2020-06-05 20:11:39 INFO] Level Name: Bedrock level
-[2020-06-05 20:11:39 INFO] Game mode: 0 Survival
-[2020-06-05 20:11:39 INFO] Difficulty: 1 EASY
-[2020-06-05 20:11:40 INFO] opening worlds/Bedrock level/db
-[2020-06-05 20:11:42 INFO] IPv4 supported, port: 19132
-[2020-06-05 20:11:42 INFO] IPv6 supported, port: 19133
-[2020-06-05 20:11:42 INFO] IPv4 supported, port: 62818
-[2020-06-05 20:11:42 INFO] IPv6 supported, port: 62819
-[2020-06-05 20:11:43 INFO] Server started.
+[2020-06-05 21:05:58 INFO] Starting Server
+[2020-06-05 21:05:58 INFO] Version 1.14.60.5
+[2020-06-05 21:05:58 INFO] Session ID c314f862-5165-4ce9-beb2-0782a93c5a05
+[2020-06-05 21:05:58 INFO] Level Name: Bedrock level
+[2020-06-05 21:05:58 INFO] Game mode: 0 Survival
+[2020-06-05 21:05:58 INFO] Difficulty: 1 EASY
+[2020-06-05 21:05:58 INFO] opening worlds/Bedrock level/db
+[2020-06-05 21:06:01 INFO] IPv4 supported, port: 19132
+[2020-06-05 21:06:01 INFO] IPv6 supported, port: 19133
+[2020-06-05 21:06:01 INFO] IPv4 supported, port: 58926
+[2020-06-05 21:06:01 INFO] IPv6 supported, port: 58927
+[2020-06-05 21:06:02 INFO] Server started.
